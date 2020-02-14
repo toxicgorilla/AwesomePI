@@ -1,8 +1,8 @@
 using System;
 
-namespace AwesomeAPI.Api
+namespace AwesomeAPI.Api.Routes.weather
 {
-    public class WeatherForecast
+    public class WeatherForecastModel
     {
         public DateTime Date { get; set; }
 
